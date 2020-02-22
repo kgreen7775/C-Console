@@ -60,7 +60,7 @@ class XYZBank //THIS IS THE CLASS FOR THE BANK
 };
 
 int main() //MAIN FUNCTION
-{
+{ 
  
 
 
